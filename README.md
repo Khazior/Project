@@ -1,2 +1,2 @@
 # Project
-project pribadi
+Tempat menyimpan kode semasa kuliah

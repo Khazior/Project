@@ -8,6 +8,7 @@ import gdown
 sns.set(style='dark')
 
 # URL dan ID file dari Google Drive
+# mengintegrasikan dataset di google drive karena ukuran terlalu besar untuk di upload di github
 url = 'https://drive.google.com/uc?id=11HoUhA6iMfAAHvChYg2tEf9DeWlgn-6V'
 output = 'main_data.csv'
 

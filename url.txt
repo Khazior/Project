@@ -1,1 +1,1 @@
-https://share.streamlit.io/
+https://dicoding-data-collection-dashboard.streamlit.app/
